@@ -1,0 +1,27 @@
+site_name: Blog
+site_url: !ENV [SITE_URL, CF_PAGES_URL, "https://blog.chainfuse.com"]
+site_author: ChainFuse
+repo_name: ChainFuse/blog
+repo_url: https://github.com/ChainFuse/blog
+exclude_docs: |
+  *.less
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  # Enables highlighting of source code in code blocks using the highlight.js JavaScript library
+  highlightjs: true
+  # Lists the homepage in the sidebar menu. As MkDocs requires that the homepage be listed in the nav configuration option, this setting allows the homepage to be included or excluded from the sidebar. Note that the site name/logo always links to the homepage.
+  include_homepage_in_sidebar: false
+  # One of bottom, top, both , or none. Displays the “Next” and “Previous” buttons accordingly
+  prev_next_buttons_location: none
+  # The maximum depth of the navigation tree in the sidebar. Default: 4
+  navigation_depth: 5
+  # Only include the page section headers in the sidebar for the current page
+  collapse_navigation: true
+  # Only include page titles in the sidebar, excluding all section headers for all pages
+  titles_only: false
+  # If True, causes the sidebar to scroll with the main page content as you scroll the page
+  sticky_navigation: true
+  # The locale (language/location) used to build the theme. If your locale is not yet supported, it will fallback to the default
+  locale: en
