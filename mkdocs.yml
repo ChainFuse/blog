@@ -57,3 +57,5 @@ theme:
     - navigation.instant
     - navigation.instant.progress
   custom_dir: overrides
+extra_css:
+  - stylesheets/fullWidth.css
