@@ -56,3 +56,4 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
+  custom_dir: overrides
