@@ -53,3 +53,6 @@ theme:
   font:
     text: Roboto
     code: Red Hat Mono
+  features:
+    - navigation.instant
+    - navigation.instant.progress
