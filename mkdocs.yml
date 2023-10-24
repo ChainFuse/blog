@@ -62,3 +62,4 @@ extra_css:
   - stylesheets/theme.css
 hooks:
   - hooks/preSetup.py
+  - hooks/configEdit.py
