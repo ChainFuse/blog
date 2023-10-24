@@ -60,3 +60,5 @@ theme:
 extra_css:
   - stylesheets/fullWidth.css
   - stylesheets/theme.css
+hooks:
+  - hooks/preSetup.py
