@@ -1,5 +1,5 @@
 distro==1.8.0
+lesscpy==0.15.1
 mkdocs==1.5.3
 mkdocs-material==9.4.6
 mkdocs-material[imaging]==9.4.6
-lesscpy==0.15.1
