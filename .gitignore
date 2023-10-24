@@ -162,3 +162,7 @@ cython_debug/
 # Custom.gitignore
 # macOS
 .DS_Store
+
+# Compiled less files
+docs/stylesheets/**.css
+!docs/stylesheets/admonitions.css
