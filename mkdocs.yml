@@ -84,3 +84,14 @@ plugins:
   - tags
   - glightbox:
       auto_caption: true
+  - minify:
+      minify_html: true
+      htmlmin_opts:
+        remove_comments: true
+        reduce_boolean_attributes: true
+      minify_js: true
+      minify_css: true
+      cache_safe: true
+      css_files:
+        - stylesheets/fullWidth.css
+        - stylesheets/theme.css

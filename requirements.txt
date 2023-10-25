@@ -1,6 +1,7 @@
 distro==1.8.0
 mkdocs-glightbox==0.3.4
 lesscpy==0.15.1
+mkdocs-minify-plugin==0.7.1
 mkdocs==1.5.3
 mkdocs-material==9.4.6
 mkdocs-material[imaging]==9.4.6
