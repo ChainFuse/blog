@@ -59,6 +59,12 @@ theme:
   features:
     - navigation.instant
     - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.prune
+    - toc.follow
+    - navigation.top
   custom_dir: overrides
 extra:
   social:
