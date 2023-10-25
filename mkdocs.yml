@@ -66,6 +66,9 @@ theme:
     - navigation.prune
     - toc.follow
     - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
   custom_dir: overrides
 extra:
   social:
