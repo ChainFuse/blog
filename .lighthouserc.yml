@@ -1,0 +1,41 @@
+ci:
+  collect:
+    # The build directory where your HTML files to run Lighthouse on are located
+    staticDistDir: ./site/
+    # feature: navigation.instant
+    isSinglePageApplication: true
+    # https://github.com/GoogleChrome/lighthouse/blob/main/types/lhr/settings.d.ts#L53
+    settings:
+      throttlingMethod: devtools
+
+  assert:
+    # choices: "lighthouse:all", "lighthouse:recommended", "lighthouse:no-pwa"
+    preset: lighthouse:no-pwa
+    assertions:
+      total-byte-weight: warn
+      uses-responsive-images: warn
+      # Should never be an error
+      color-contrast: warn
+      meta-description: warn
+      robots-txt: warn
+      lcp-lazy-loaded: warn
+      unsized-images: warn
+      # Since no tags are created, there's a GH api call that will always fail - leaving as warn in case there are others
+      errors-in-console: warn
+      # Not used on 404 page, but used on all the others
+      unused-javascript: warn
+      unused-css-rules: warn
+      # { loading=lazy } is used for all images in my control, but some aren't
+      offscreen-images: warn
+      # navigation.instant turns into SPA which breaks back/forward cache
+      bf-cache: off
+      # Not testable local
+      csp-xss: off
+      # Don't care
+      categories:seo: off
+      # Not controllable
+      non-composited-animations: off
+      uses-rel-preconnect: off
+      crawlable-anchors: off
+      form-field-multiple-labels: off
+      label: off
