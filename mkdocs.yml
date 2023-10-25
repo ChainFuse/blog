@@ -7,6 +7,7 @@ exclude_docs: |
   *.less
 theme:
   name: material
+  favicon: assets/favicon.svg
   icon:
     repo: fontawesome/brands/github
   # Enables highlighting of source code in code blocks using the highlight.js JavaScript library
