@@ -82,3 +82,5 @@ plugins:
   - social:
       enabled: !ENV [ENABLED_SOCIAL, false]
   - tags
+  - glightbox:
+      auto_caption: true
