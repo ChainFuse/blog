@@ -69,6 +69,7 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - announce.dismiss
   custom_dir: overrides
 extra:
   social:
