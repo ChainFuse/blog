@@ -81,3 +81,4 @@ plugins:
   - search
   - social:
       enabled: !ENV [ENABLED_SOCIAL, false]
+  - tags
