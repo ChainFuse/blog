@@ -64,3 +64,4 @@ hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py
   - hooks/lessCompiler.py
+  - hooks/postSetup.py
