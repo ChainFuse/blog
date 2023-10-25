@@ -164,5 +164,5 @@ cython_debug/
 .DS_Store
 
 # Compiled less files
-docs/stylesheets/**.css
-!docs/stylesheets/admonitions.css
+blog/stylesheets/**.css
+!blog/stylesheets/admonitions.css
