@@ -90,6 +90,7 @@ markdown_extensions:
   - pymdownx.caret
   - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.details
 hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py
