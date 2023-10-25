@@ -85,6 +85,7 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify
         kwds:
           case: lower
+  - tables
 hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py
