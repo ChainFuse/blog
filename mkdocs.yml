@@ -1,8 +1,8 @@
 site_name: ChainFuse Blog
 site_url: !ENV [SITE_URL, CF_PAGES_URL, "https://blog.chainfuse.com"]
-site_author: ChainFuse
-repo_name: ChainFuse/blog
 repo_url: https://github.com/ChainFuse/blog
+repo_name: ChainFuse/blog
+site_author: ChainFuse
 docs_dir: blog
 exclude_docs: |
   *.less
