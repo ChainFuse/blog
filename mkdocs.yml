@@ -80,6 +80,11 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - toc:
+      permalink: "#"
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
 hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py
