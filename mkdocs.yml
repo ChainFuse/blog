@@ -31,24 +31,24 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: red
+      primary: blue
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for oled dark mode
     - media: "(prefers-color-scheme: dark) and (dynamic-range: high)"
       scheme: oled
-      primary: green
-      accent: red
+      primary: blue
+      accent: cyan
       toggle:
         icon: material/lightbulb-night-outline
         name: Switch to light mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark) and (dynamic-range: standard)"
       scheme: darkgray
-      primary: green
-      accent: red
+      primary: blue
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Switch to oled dark mode
