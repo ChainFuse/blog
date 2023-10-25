@@ -73,6 +73,13 @@ extra:
 extra_css:
   - stylesheets/fullWidth.css
   - stylesheets/theme.css
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
 hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py

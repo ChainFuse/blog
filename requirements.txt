@@ -5,3 +5,4 @@ mkdocs-minify-plugin==0.7.1
 mkdocs==1.5.3
 mkdocs-material==9.4.6
 mkdocs-material[imaging]==9.4.6
+pymdown-extensions==10.3.1
