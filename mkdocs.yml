@@ -86,6 +86,10 @@ markdown_extensions:
         kwds:
           case: lower
   - tables
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 hooks:
   - hooks/preSetup.py
   - hooks/configEdit.py
