@@ -77,3 +77,5 @@ hooks:
   - hooks/configEdit.py
   - hooks/lessCompiler.py
   - hooks/postSetup.py
+plugins:
+  - search
