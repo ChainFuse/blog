@@ -63,6 +63,7 @@ theme:
     - navigation.sections
     - navigation.prune
     - toc.follow
+    - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
