@@ -5,6 +5,8 @@ authors: [demosjarco]
 
 ChatGPT generated TLS 3 way handshake diagram using mermaid
 
+<!-- more -->
+
 ```mermaid
 sequenceDiagram
 autonumber
