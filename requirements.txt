@@ -5,5 +5,5 @@ mkdocs-minify-plugin==0.7.1
 mkdocs==1.5.3
 mkdocs-material==9.4.7
 mkdocs-material[imaging]==9.4.7
-pymdown-extensions==10.3.1
+pymdown-extensions==10.4
 toc==0.0.11
