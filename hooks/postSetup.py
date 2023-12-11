@@ -158,5 +158,4 @@ class PostSetupCF:
 		print("Moved", oldPath, "to", newPath, flush=True)
 
 def on_post_build(config: MkDocsConfig) -> None:
-	CSPGenerator().save_to_file()
 	PostSetup()
