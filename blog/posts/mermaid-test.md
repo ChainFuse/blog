@@ -1,6 +1,9 @@
 ---
 authors:
   - demosjarco
+categories:
+  - ai
+  - tech deep dive
 date: 2023-10-26
 ---
 
