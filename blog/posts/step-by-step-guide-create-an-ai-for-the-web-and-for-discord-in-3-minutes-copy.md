@@ -4,7 +4,7 @@ authors:
 categories:
   - ai
 date: 2023-08-26
-readtime: 3.21666666666
+readtime: 3
 ---
 
 # Step By Step Guide: Create an AI for the Web and for Discord In 3 Minutes Copy
