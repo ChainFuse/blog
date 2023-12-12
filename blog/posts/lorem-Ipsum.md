@@ -1,6 +1,7 @@
 ---
 date: 2023-10-24
-authors: [demosjarco]
+authors:
+  - demosjarco
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris in arcu sit amet ipsum dapibus maximus eget sit amet magna. Fusce viverra tortor ligula, ac ultricies lacus ultricies ac. Vestibulum consequat nunc vitae egestas eleifend. Nunc sed nisi mauris. Praesent fringilla volutpat mauris, ultricies euismod velit posuere ac. Ut posuere rhoncus mattis. Morbi et feugiat tortor. Sed dolor nulla, mattis sit amet vestibulum et, pellentesque vel dui. Aenean at est id nunc aliquam bibendum mollis non ligula. Curabitur hendrerit elit nec elit hendrerit venenatis.
