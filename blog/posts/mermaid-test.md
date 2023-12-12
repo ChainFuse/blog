@@ -4,7 +4,7 @@ authors:
 date: 2023-10-26
 ---
 
-ChatGPT generated TLS 3 way handshake diagram using mermaid
+I used ChatGPT generated the TLS 3 way handshake diagram process used in https using mermaid
 
 <!-- more -->
 
