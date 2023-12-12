@@ -1,6 +1,7 @@
 ---
+authors:
+  - demosjarco
 date: 2023-10-26
-authors: [demosjarco]
 ---
 
 ChatGPT generated TLS 3 way handshake diagram using mermaid
