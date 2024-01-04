@@ -1,8 +1,14 @@
 authors:
+  clair:
+    name: Clair
   georgeportillo:
     name: George Portillo
     description: CEO
     avatar: https://github.com/georgeportillo.png
+  victors:
+    name: Victor Sanchez
+    description: COO
+    avatar: https://github.com/vsanchez1987.png
   demosjarco:
     name: DemosJarco
     description: CISO & CTO
