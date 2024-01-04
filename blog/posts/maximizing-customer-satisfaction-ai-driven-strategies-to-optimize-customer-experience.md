@@ -1,8 +1,8 @@
 ---
 authors:
-  - clair
+    - clair
 categories:
-  - audience engagement
+    - audience engagement
 date: 2023-10-24
 ---
 
