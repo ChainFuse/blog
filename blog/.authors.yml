@@ -2,7 +2,7 @@ authors:
   clair:
     name: Clair
     description: Clair, reads and analyzes data to empower your product managers with insightful foresight, making strategic decisions a breeze.
-    assets: assets/clairLogo.svg
+    avatar: assets/clairLogo.svg
   georgeportillo:
     name: George Portillo
     description: CEO
