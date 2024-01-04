@@ -1,6 +1,6 @@
 ---
 authors:
-  - georgeportillo
+  - clair
 categories:
   - ai
 date: 2023-08-26
