@@ -143,7 +143,8 @@ plugins:
       archive_url_date_format: yyyy/MM
       pagination_format: "$link_first $link_previous ~2~ $link_next $link_last"
       pagination_keep_content: true
-      draft: true
+      draft: false
+      draft_on_serve: true
       draft_if_future_date: true
   - search
   - social:
