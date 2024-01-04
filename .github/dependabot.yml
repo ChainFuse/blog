@@ -13,6 +13,14 @@ updates:
       time: "08:00"
       timezone: "America/Los_Angeles"
     open-pull-requests-limit: 999
+    groups:
+      artifacts:
+        patterns:
+          - "actions/*-artifact"
+      caches:
+        patterns:
+          - "actions/cache"
+          - "actions/cache/*"
   - package-ecosystem: "pip"
     directory: "/"
     schedule:
