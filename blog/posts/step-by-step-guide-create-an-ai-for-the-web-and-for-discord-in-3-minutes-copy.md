@@ -1,8 +1,8 @@
 ---
 authors:
-  - clair
+    - clair
 categories:
-  - ai
+    - ai
 date: 2023-08-26
 readtime: 3
 ---
