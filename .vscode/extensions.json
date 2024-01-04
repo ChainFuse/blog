@@ -4,6 +4,7 @@
 		"ms-python.vscode-pylance",
 		"eeyore.yapf",
 		"redhat.vscode-yaml",
-		"github.vscode-github-actions"
+		"github.vscode-github-actions",
+		"github.codespaces"
 	]
 }
