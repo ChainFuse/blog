@@ -163,3 +163,10 @@ plugins:
       css_files:
         - stylesheets/fullWidth.css
         - stylesheets/theme.css
+  - rss:
+      match_path: posts/.*
+      date_from_meta:
+        as_creation: date
+      categories:
+        - categories
+        - tags
