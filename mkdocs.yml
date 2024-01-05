@@ -76,6 +76,12 @@ theme:
   custom_dir: overrides
 extra:
   social:
+    - icon: fontawesome/solid/rss
+      link: feed_rss_created.xml
+      name: RSS Feed
+    - icon: fontawesome/solid/square-rss
+      link: feed_rss_created.xml
+      name: RSS Feed
     - icon: fontawesome/brands/threads
       link: https://www.threads.net/@chainfuse
     - icon: fontawesome/brands/instagram
