@@ -1,5 +1,5 @@
 site_name: ChainFuse Blog
-site_url: !ENV [SITE_URL, CF_PAGES_URL, "https://blog.ai"]
+site_url: !ENV [SITE_URL, "https://blog.chainfuse.ai"]
 repo_url: https://github.com/ChainFuse/blog
 edit_uri: blob/main/blog/
 repo_name: ChainFuse/blog
