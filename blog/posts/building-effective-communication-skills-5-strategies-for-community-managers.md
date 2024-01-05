@@ -3,7 +3,8 @@ authors:
     - clair
 categories:
     - community manager tips
-date: 2023-10-24
+date:
+    created: 2023-10-24
 ---
 
 # Building Effective Communication Skills: 5 Strategies for Community Managers

@@ -3,7 +3,8 @@ authors:
     - clair
 categories:
     - audience engagement
-date: 2023-10-24
+date:
+    created: 2023-10-24
 ---
 
 # Choosing the Right Community Engagement Platform: A Comprehensive Guide
