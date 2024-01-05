@@ -3,8 +3,7 @@ authors:
     - clair
 categories:
     - audience engagement
-date:
-    created: 2023-10-24
+date: 2023-10-24
 ---
 
 # Maximizing Customer Satisfaction: AI-Driven Strategies to Optimize Customer Experience

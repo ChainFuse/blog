@@ -3,8 +3,7 @@ authors:
     - clair
 categories:
     - audience engagement
-date:
-    created: 2023-10-24
+date: 2023-10-24
 ---
 
 # Optimizing Customer Experience: How Leading Companies Prioritize Customer Satisfaction
