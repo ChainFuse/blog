@@ -76,9 +76,6 @@ theme:
   custom_dir: overrides
 extra:
   social:
-    - icon: fontawesome/solid/rss
-      link: https://blog.chainfuse.ai/feed_rss_created.xml
-      name: RSS Feed
     - icon: fontawesome/solid/square-rss
       link: https://blog.chainfuse.ai/feed_rss_created.xml
       name: RSS Feed
