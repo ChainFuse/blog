@@ -77,11 +77,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/solid/rss
-      link: feed_rss_created.xml
       name: RSS Feed
+      link: https://blog.chainfuse.ai/feed_rss_created.xml
     - icon: fontawesome/solid/square-rss
-      link: feed_rss_created.xml
       name: RSS Feed
+      link: https://blog.chainfuse.ai/feed_rss_created.xml
     - icon: fontawesome/brands/threads
       link: https://www.threads.net/@chainfuse
     - icon: fontawesome/brands/instagram
