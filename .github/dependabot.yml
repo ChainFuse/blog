@@ -5,6 +5,21 @@
 
 version: 2
 updates:
+  - package-ecosystem: "devcontainers"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "tuesday"
+      time: "12:00"
+      timezone: "America/Los_Angeles"
+    open-pull-requests-limit: 999
+  - package-ecosystem: "docker"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "tuesday"
+      time: "12:00"
+      timezone: "America/Los_Angeles"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
