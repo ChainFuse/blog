@@ -1,6 +1,4 @@
-ARG VARIANT=3-bullseye
-
-FROM python:${VARIANT} AS base
+FROM python:3-bullseye AS base
 
 ENV DEBIAN_FRONTEND=noninteractive
 RUN --mount=type=cache,target=/var/cache/ apt update
