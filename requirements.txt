@@ -3,8 +3,8 @@ mkdocs-glightbox==0.3.7
 lesscpy==0.15.1
 mkdocs-minify-plugin==0.8.0
 mkdocs==1.5.3
-mkdocs-material==9.5.10
-mkdocs-material[imaging]==9.5.10
+mkdocs-material==9.5.11
+mkdocs-material[imaging]==9.5.11
 mkdocs-rss-plugin==1.12.1
 pymdown-extensions==10.7
 toc==0.0.11
