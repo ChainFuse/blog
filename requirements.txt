@@ -6,5 +6,5 @@ mkdocs==1.5.3
 mkdocs-material==9.5.10
 mkdocs-material[imaging]==9.5.10
 mkdocs-rss-plugin==1.12.1
-pymdown-extensions==10.7
+pymdown-extensions==10.7.1
 toc==0.0.11
